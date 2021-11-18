@@ -1,2 +1,2 @@
 # graphql-practice
-a place to learn graph ql
+I will be taking notes and tracking progress in this tab
